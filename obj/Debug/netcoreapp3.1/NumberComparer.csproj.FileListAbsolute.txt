@@ -1,0 +1,11 @@
+C:\Users\User\NumberComparer\obj\Debug\netcoreapp3.1\NumberComparer.csprojAssemblyReference.cache
+C:\Users\User\NumberComparer\obj\Debug\netcoreapp3.1\NumberComparer.AssemblyInfoInputs.cache
+C:\Users\User\NumberComparer\obj\Debug\netcoreapp3.1\NumberComparer.AssemblyInfo.cs
+C:\Users\User\NumberComparer\bin\Debug\netcoreapp3.1\NumberComparer.exe
+C:\Users\User\NumberComparer\bin\Debug\netcoreapp3.1\NumberComparer.deps.json
+C:\Users\User\NumberComparer\bin\Debug\netcoreapp3.1\NumberComparer.runtimeconfig.json
+C:\Users\User\NumberComparer\bin\Debug\netcoreapp3.1\NumberComparer.runtimeconfig.dev.json
+C:\Users\User\NumberComparer\bin\Debug\netcoreapp3.1\NumberComparer.dll
+C:\Users\User\NumberComparer\bin\Debug\netcoreapp3.1\NumberComparer.pdb
+C:\Users\User\NumberComparer\obj\Debug\netcoreapp3.1\NumberComparer.dll
+C:\Users\User\NumberComparer\obj\Debug\netcoreapp3.1\NumberComparer.pdb
